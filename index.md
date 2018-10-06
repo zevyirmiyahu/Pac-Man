@@ -1,22 +1,22 @@
-# zevyirmiyahu.github.io-Pac-Man
+# Pac-Man
 
 
 ## Description: 
-Super Mario Survival pits Mario against a fire monster. The player needs to avoid touching the fire monster. The longer one survives, the higher the score.
+This is the classic Pac-Man game created without the use of a game engine. The game is made with Java and the sprites for the game were made using AseSprite.
 
 ## About Development:
-Every aspect of this game was hand made. All code was written in Java. The game menu and the game over screen pictures where drawn using the wacom intuos drawing pad. The sprites were created using Aseprite [https://www.aseprite.org/](https://www.aseprite.org/). The fire monster uses an A star search algorithm to find the player and chase. If the player is confused on how to play, a help menu was also made that provides, directions and about the game.
+Every aspect of this game was hand made. All code was written in Java. The game menu, game winner and the game over screen pictures where drawn using the wacom intuos drawing pad. The sprites were created using Aseprite [https://www.aseprite.org/](https://www.aseprite.org/). The a few of the "smart" ghosts use an A star search algorithm with a set range of detection, while the "dummer" ghosts use a much simpler follow algorithm, which has a low range of detection. Lastly, the "really dumb" ghost just walk a random path in order to hinder the players likely path choices. The game controls are quite simple, space bar to start the game and arrow keys on keyboard control players direction...not complicated.
+
 ## Download Zip File
-<a href="mario_survival.zip" download><b>Download Zip File</b></a>
+<a href="NO_FILE" download><b>Download Zip File</b></a>
 
 ## Images
 
 ### Menu Screen
-![Menu Screen](https://zevyirmiyahu.github.io/images/Mario_Images/marioScreen1.png)
+![Menu Screen](https://zevyirmiyahu.github.io/images/PacMan_Images/pacmanMenu.png)
 
 ### Game Play
-![Game Play](https://zevyirmiyahu.github.io/images/Mario_Images/marioScreen2.png)
+![Game Play](https://zevyirmiyahu.github.io/images/PacMan_Images/pacmangamescreen.png)
 
 ### Game Over Screen
-![Game Over Screen](https://zevyirmiyahu.github.io/images/Mario_Images/marioScreen3.png)
 
