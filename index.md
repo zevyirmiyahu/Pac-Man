@@ -8,8 +8,8 @@ This is the classic Pac-Man game created without the use of a game engine. The g
 Every aspect of this game was hand made. All code was written in Java. The game menu, game winner and the game over screen pictures where drawn using the wacom intuos drawing pad. The sprites were created using Aseprite [https://www.aseprite.org/](https://www.aseprite.org/). A few of the "smart" ghosts use an A star search algorithm with a set range of detection, while the "dummer" ghosts use a much simpler follow algorithm, which has a low range of detection. Lastly, the "really dumb" ghost just walk a random path in order to hinder the players likely path choices. The game controls are quite simple, space bar to start the game and arrow keys on keyboard control players direction...not complicated.
 
 ## Download the Game
-Download the JAR file below to play. Make sure you have the latest version of Java installed, if not click here[click here](https://www.java.com/en/) to get that first.
-<a href="NO_FILE" download><b>Download JAR File</b></a>
+To play, download the JAR file: <a href="NO_FILE" download><b>Download JAR File</b></a> Make sure you have the latest version of Java installed, if not click here [click here](https://www.java.com/en/) to get that first.
+
 
 ## Images
 
