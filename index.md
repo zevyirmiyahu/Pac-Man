@@ -19,5 +19,6 @@ To play, download the JAR file: <a href="NO_FILE" download><b>Download JAR File<
 ### Game Play
 ![Game Play](https://zevyirmiyahu.github.io/images/PacMan_Images/pacmangamescreen.png)
 
-### Game Over Screen
+### Win Menu Screen
+![Win Screen](https://zevyirmiyahu.github.io/images/PacMan_Images/pacman _winMenu.png)
 
