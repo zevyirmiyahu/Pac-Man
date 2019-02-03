@@ -1,1 +1,6 @@
-theme: jekyll-theme-architect
+title: Pac-Man
+logo: /assets/img/GitHub-Mark-120px-plus.png
+description: Classic Pac-Man game
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
